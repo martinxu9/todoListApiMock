@@ -1,0 +1,22 @@
+{
+  "name": "todolistapimock",
+  "version": "1.0.0",
+  "description": "RESTfull todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \"Error: no test specified\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinxu9/todoListApiMock.git"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "Martin Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinxu9/todoListApiMock/issues"
+  },
+  "homepage": "https://github.com/martinxu9/todoListApiMock#readme"
+}
